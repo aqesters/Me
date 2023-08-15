@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aqesters
 - 👀 I’m interested in hardware-software integration and automation of simple tasks.
 - 🌱 I’m currently learning more about embedded electronics and studying use cases and applications for large language models (LLMs).
-- 💞️ I’m looking to collaborate on any projects related to open-source LLMs.
+- 💞️ I’m looking to collaborate on projects related to open-source LLMs or Python packages that call them (e.g., Langchain).
 - 📫 You can reach me at aqesters@gmail.com
 
 <!---
