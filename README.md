@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aqesters
-- 👀 I’m interested in hardware-software integration and automation of simple tasks.
-- 🌱 I’m currently learning more about embedded electronics and studying use cases and applications for large language models (LLMs).
-- 💞️ I’m looking to collaborate on projects related to open-source LLMs.
-- 📫 You can reach me at aqesters@gmail.com
+- 👀 I’m interested in embedded ML/AI applications and adaptive learning.
+- 🌱 I’m currently learning more about ISAs, computer architectures, and deep learning algorithms.
+- 💞️ I’m looking to collaborate on projects related to embedded ML/AI or physics-informed ML/AI.
+- 📫 You can reach me at AQESTERS@gmail.com
 
 <!---
 aqesters/aqesters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
